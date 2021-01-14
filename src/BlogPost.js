@@ -18,6 +18,7 @@ export default class BlogPost extends Component {
         Just like hopes springing high,<br/>
         Still I'll rise.<br/>
         -Maya Angelou<br/>
+        -GoodGood<br/>
 
         {/* {/* (remove the comment ticks and their surrounding brackets) */}
         <Comment commentText={comments[0]} />
