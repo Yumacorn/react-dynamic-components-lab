@@ -14,7 +14,7 @@ export default class ColorBox extends Component {
         <div className="color-box" style={{opacity: this.props.opacity}}>
           <ColorBox opacity={this.props.opacity - 0.1} />
 
-          {/* your conditional code here! */}
+          {/* your conditional code here!11111 */}
         </div>
       )
     } else {
